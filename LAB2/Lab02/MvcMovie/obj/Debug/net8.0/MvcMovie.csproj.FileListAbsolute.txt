@@ -1,0 +1,66 @@
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\bin\Debug\net8.0\appsettings.Development.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\bin\Debug\net8.0\appsettings.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.staticwebassets.runtime.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.staticwebassets.endpoints.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.exe
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.deps.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.runtimeconfig.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.dll
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.pdb
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfoInputs.cache
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfo.cs
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cache
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cs
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\scopedcss\bundle\MvcMovie.styles.css
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\staticwebassets.build.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\staticwebassets.development.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.dll
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\refint\MvcMovie.dll
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
+D:\Users\Admin\Desktop\Advanced Web\Lab02\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\bin\Debug\net8.0\appsettings.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.staticwebassets.runtime.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.staticwebassets.endpoints.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.exe
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.deps.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.runtimeconfig.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.dll
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\bin\Debug\net8.0\MvcMovie.pdb
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfo.cs
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\scopedcss\bundle\MvcMovie.styles.css
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.dll
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\refint\MvcMovie.dll
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
+C:\Users\mrkha\Documents\Zalo Received Files\Khang_2268\LAB2\Lab02\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
